@@ -22,14 +22,16 @@ User Input    | Binary Output | Hex Output
 
 ## Known Bugs
 
-_Cannot get name variable to show up on return of result (left one example in the HTML to show code and left it in .js file even though it doesn't work._
+_If you put a letter as the input instead of a number, it will return NaN for both outputs!_
 
 _Wanted to implement the third track in an "if else" statement but not sure how to place the variable_
 
 ## Support and contact details
 
-_You may contact me via GitHub or by email should you have any questions about this project or suggestions to improve it:
-amberf0712@outlook.com_
+_You may contact us via GitHub or by email should you have any questions about this project or suggestions to improve it:_
+
+_Amber Farrington: amberf0712@outlook.com_
+_Adam Gorbahn: adamgorbahn@hotmail.com_
 
 ## Technologies Used
 
