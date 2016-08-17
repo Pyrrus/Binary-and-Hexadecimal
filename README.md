@@ -24,8 +24,6 @@ User Input    | Binary Output | Hex Output
 
 _If you put a letter as the input instead of a number, it will return NaN for both outputs!_
 
-_Wanted to implement the third track in an "if else" statement but not sure how to place the variable_
-
 ## Support and contact details
 
 _You may contact us via GitHub or by email should you have any questions about this project or suggestions to improve it:_
