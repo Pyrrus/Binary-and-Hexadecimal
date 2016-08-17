@@ -1,0 +1,52 @@
+h1, h4 {
+  text-align: center;
+  opacity: 1;
+}
+
+h4 {
+  color:#fff;
+}
+
+input {
+  color: black;
+  font-size: 5em;
+}
+
+body {
+  font-family: 'Orbitron', sans-serif;
+  background-color:black;
+  color: #39FF14;
+}
+
+#main {
+  margin-right: 20px;
+  border: 3px solid #39FF14;
+  padding: 10px;
+}
+
+.container {
+  text-align: center;
+}
+
+.btn-default {
+  margin-top: 20px;
+  padding: 30px;
+  font-size: 20px;
+}
+
+.btn-default:hover {
+  background-color: greenyellow;
+}
+
+.jumbotron {
+  margin-top: 20px;
+  border: 3px dashed #39FF14;
+  background-color: darkslategrey;
+}
+
+p {
+  border: 3px dashed #39FF14;
+  background-color: darkslategrey;;
+  font-size: 20px;
+  padding: 20px;
+}
